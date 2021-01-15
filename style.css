@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+h1, h2 {
+	margin: 16px;
+}
+
+div {
+	text-align: center;
+}
+
+p {
+	font-size: small;
+	margin: 5px;
+}
+
+form {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: 100%;
+}
+
+[type="submit"], button {
+	width: 100px;
+	height: 30px;
+}
+
+input {
+	width: 300px;
+	height: 30px;
+	margin: 5px;
+}
+
