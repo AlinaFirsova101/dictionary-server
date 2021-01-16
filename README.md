@@ -1,3 +1,3 @@
 # dictionary-server
-docker-compose up
+# docker-compose up
 Alina Firsova
